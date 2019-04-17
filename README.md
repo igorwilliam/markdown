@@ -105,7 +105,8 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 
 ## Links Úteis
 
-https://guides.github.com/features/mastering-markdown/
+https://guides.github.com/features/mastering-markdown/ 
+
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ## Autor
