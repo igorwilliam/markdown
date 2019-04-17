@@ -103,6 +103,11 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 * [ ] Item 1
 * [x] Item 2 Checked
 
+## Links Úteis
+
+https://guides.github.com/features/mastering-markdown/
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 ## Autor
 
 [Igor William](https://igorwilliam;github.io)
