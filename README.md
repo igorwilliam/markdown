@@ -100,6 +100,9 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 
 ## Checkboxes (Apenas no Github)
 
+* [ ] Item 1
+* [x] Item 2 Checked
+
 ## Autor
 
 [Igor William](https://igorwilliam;github.io)
