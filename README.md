@@ -10,7 +10,7 @@ _ _ _
 ## Cabeçalhos
 
 # H1: adiciona linha horizontal
-## H2: H2 para H6 não adiciona linha hroizontal  
+## H2
 ### H3
 #### H4
 ##### H5
